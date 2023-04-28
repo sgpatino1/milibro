@@ -1,0 +1,9 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: Index
+chapters:
+- file: Simbad el marino
+- file: Viaje al centro de la Tierra
+- file: Moby-Dick
